@@ -1,0 +1,5 @@
+Hello!
+
+This is a sample text file for you test around in your repository in Git. Use it however you wish.
+
+New Change!
